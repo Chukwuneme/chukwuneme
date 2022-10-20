@@ -1,18 +1,11 @@
 ### Hi there, i'm Chukwuneme Tadinma. Welcome to my profile 👋
 
-## Here is what you should know aboout me:
+## Here is what you should know about me:
 
 I am really enthusiastic about technology, especially the field of artificial intelligence.
 Currently, i am undergoing a learning experience and data anlytics internship at RadicalX, Where i'm tasked with collecting, analysing interpreting and reporting on a very interesting dataset in an exiciting domain. 
-I am currentlly open to entey level software engineering or datascience positions, where i believe my core values of respect, collaboration and hardwork will be very valuable, also a place where i can grow and improve on my skills.
+I am currently open to entry level software engineering or datascience positions, where i believe my core values of respect, collaboration and hardwork will be very valuable, also a place where i can grow and improve on my skills.
 
-
-- 🔭 I’m currently a 
-- 🌱 I’m currently studying implementation on machine learning algorithms on the cloud
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 😉 funfact: I love Pugb
+- You can reach me at [chukwunemetaginma@gmail.com](chukwunemetadinma@gmail.com)
+- I'm on linkedin: [chukwuneme Tadinma](https://linkedin.com/in/chukwunemetadinma)
