@@ -2,10 +2,10 @@
 
 ## Here is what you should know about me:
 
--I am really enthusiastic about technology, especially the field of artificial intelligence.
-Currently, i am undergoing a learning experience and data anlytics internship at RadicalX, Where i'm tasked with collecting, analysing interpreting and reporting on a very interesting dataset in an exiciting domain. 
-- Im also woring on getting a datascience certiification, to show my experience in the field.
--I am currently open to entry level software engineering or datascience positions, where i believe my core values of respect, collaboration and hardwork will be very valuable, also a place where i can grow and improve on my skills.
+- I am really enthusiastic about technology, especially the field of artificial intelligence.
+- Currently, i am undergoing a learning experience and data anlytics internship at RadicalX, Where i'm tasked with collecting, analysing interpreting and reporting on a very interesting dataset in an exiciting domain. 
+- Im also working on getting a datascience certification, to increase my market value.
+- I am currently open to entry level software engineering or datascience positions, where i believe my core values of respect, collaboration and hardwork will be very valuable, also a place where i can grow and improve on my skills.
 
 # Tools i use:
 - Python
