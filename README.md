@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Chukwuneme Tadinma. Welcome to my profile 👋
 
 <!--
 **Chukwuneme/chukwuneme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
