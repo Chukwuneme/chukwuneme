@@ -17,4 +17,4 @@
 
 - You can reach me at [chukwunemetaginma@gmail.com](chukwunemetadinma@gmail.com)
 - I'm on linkedin: [chukwuneme Tadinma](https://linkedin.com/in/chukwunemetadinma)
-- funfact: When i'm not trying to get rid of bugs and doing tech stuff, im sniping out enemies in pubg 😉
+- funfact: When i'm not trying to get rid of bugs and doing tech stuff, i'm sniping out enemies in pubg 😉
