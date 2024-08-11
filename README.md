@@ -2,10 +2,8 @@
 
 ## Here is what you should know about me:
 
-- I am really enthusiastic about technology, especially the field of artificial intelligence.
-- Currently, i am undergoing a learning experience and data analytics internship at RadicalX, Where i'm tasked with collecting, analysing interpreting and reporting on a very interesting dataset in an exciting domain. 
-- I'm also working on getting a datascience certification, to increase my market value.
-- I am currently open to entry level software engineering or datascience positions, where i believe my core values of respect, collaboration and hardwork will be very valuable, also a place where i can grow and improve on my skills.
+
+- Hello, I am 𝐂𝐡𝐮𝐤𝐰𝐮𝐧𝐞𝐦𝐞 𝐓𝐚𝐝𝐢𝐧𝐦𝐚, a lead generation specialist with hands-on experience in web scraping, data extraction, and automation. I specialise in transforming complex data challenges into seamless solutions. Clients choose me for my proven track record of delivering high-quality data sets tailored to meet their strategic needs.⁣
 
 # Tools i use:
 - Python
@@ -14,9 +12,9 @@
 - Sql
 - Tableau
 
+  Skills include ; webscraping, b2b lead generation, automation, data enrichment
 
 - You can reach me at [chukwunemetaginma@gmail.com](chukwunemetadinma@gmail.com)
 - I'm on linkedin: [chukwuneme Tadinma](https://linkedin.com/in/chukwunemetadinma)
-- funfact: When i'm not trying to get rid of bugs and doing tech stuff, i'm sniping out enemies in pubg 😉
 
-I also own [the best youtube video downloader tool](https://copyloader.com) that makes it easy to save videos from YouTube, Facebook, Instagram, Twitter, Tiktok and other social media platforms.
+
